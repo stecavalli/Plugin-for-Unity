@@ -23,6 +23,6 @@ Click on File --> New --> New Module, a window like the following will open:
 Select Android Library in the Templates and then choose the name your Plugin will have by modifying the Module Name field. Select Java as the language and then click Finish. When the Module has been created it will be necessary to create a new Java class by clicking with the right mouse button, as seen in the following image, and selecting New --> Java Class. Choose the name of the Java file, which in my case is <b>FlashlightPlugin.java</b>.
  <br>
  <br>
-<img src="javaClass.png" alt="java class" width="800">
+<img src="java_Class.png" alt="java class" width="800">
  <br>
  <br>
