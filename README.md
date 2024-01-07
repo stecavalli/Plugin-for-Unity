@@ -9,6 +9,7 @@ Follow the directions to create the application in Android Studio that are given
  <br>
  <br>
 In order to create the Plugin you must first create a new module, follow the instructions below:
+ <br>
 Click on File --> New --> New Module, a window like the following will open:
  <br>
  <br>
