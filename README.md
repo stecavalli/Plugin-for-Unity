@@ -39,7 +39,6 @@ Open terminal and type ./gradlew build. The file mylibrary-release.aar will be c
  <br>
  <br>
 The mylibrary-release.aar file is located in the flashlight --> mylibrary --> outputs --> aar directory. See the following image:
-
  <br>
  <br>
 <img src="mylibrary-release.aar.png" alt="mylibrary-release.aar" width="800">
