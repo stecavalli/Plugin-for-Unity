@@ -55,8 +55,12 @@ In File --> Build Settings select the Android platform.
 <br>
 Select Assets --> Import Package --> Custom Package. A window will open to select the plugin_for_unity.unitypackage to upload, which you can download from this repository.
 <br>
-The Unity interface will look like the following image.
-<br>
+The Unity interface will look like the following image:
+ <br>
+ <br>
+<img src="unity.png" alt="Unity interface" width="800">
+ <br>
+ <br>
 The mylibrary-release.aar Plugin was placed in the Plugins --> Android directory along with the modified AndroidManifest.xml file. 
 <br>
 See the images below for the two files <b>AndroidManifest.xml</b> and <b>FlashlightController.cs</b>:
