@@ -36,7 +36,9 @@ Open terminal and type <b>./gradlew build</b>.
 <img src="terminal.png" alt="terminal" width="800">
  <br>
  <br>
-The file mylibrary-release.aar will be created and you can find it in the build directory of the mylibrary Module. Select Project at the top left:
+The file mylibrary-release.aar will be created and you can find it in the build directory of the mylibrary Module. 
+ <br>
+Select Project at the top left by clicking on the Android icon and label:
  <br>
  <br>
 <img src="projectDirectory.png" alt="project directory" width="800">
