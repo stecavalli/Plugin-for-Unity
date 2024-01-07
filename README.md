@@ -27,7 +27,7 @@ Select Android Library in the Templates and then choose the name your Plugin wil
 After creating the FlashlightPlugin.java file, copy and paste the code from the FlashlightPlugin.java file found in this repository. You will get something like this:
  <br>
  <br>
-<img src="javaClassCode.png" alt="java class code" width="800">
+<img src="javaClassCode.png" alt="java class code" width="900">
  <br>
  <br>
 Open terminal and type <b>./gradlew build</b>. 
