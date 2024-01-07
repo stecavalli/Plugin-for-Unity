@@ -66,7 +66,7 @@ The mylibrary-release.aar Plugin was placed in the Plugins --> Android directory
 See the images below for the two files <b>AndroidManifest.xml</b> and <b>FlashlightController.cs</b>:
  <br>
  <br>
-<img src="androidManifest.xml.png" alt="AndroidManifest.xml" width="800">
+<img src="androidManifest.xml.png" alt="AndroidManifest.xml" width="700">
  <br>
  <br>
 <img src="flashlightController.cs.png" alt="FlashlightController.cs" width="800">
