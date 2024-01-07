@@ -30,7 +30,13 @@ After creating the FlashlightPlugin.java file, copy and paste the code from the 
 <img src="javaClassCode.png" alt="java class code" width="800">
  <br>
  <br>
-Open terminal and type ./gradlew build. The file mylibrary-release.aar will be created and you can find it in the build directory of the mylibrary Module. Select Project at the top left:
+Open terminal and type ./gradlew build. 
+ <br>
+ <br>
+<img src="terminal.png" alt="terminal" width="800">
+ <br>
+ <br>
+The file mylibrary-release.aar will be created and you can find it in the build directory of the mylibrary Module. Select Project at the top left:
  <br>
  <br>
 <img src="projectDirectory.png" alt="project directory" width="800">
