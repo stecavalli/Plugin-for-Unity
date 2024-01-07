@@ -30,7 +30,7 @@ After creating the FlashlightPlugin.java file, copy and paste the code from the 
 <img src="javaClassCode.png" alt="java class code" width="800">
  <br>
  <br>
-Open terminal and type ./gradlew build. 
+Open terminal and type <b>./gradlew build</b>. 
  <br>
  <br>
 <img src="terminal.png" alt="terminal" width="800">
