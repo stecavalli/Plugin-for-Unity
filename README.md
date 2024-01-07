@@ -58,7 +58,7 @@ Select Assets --> Import Package --> Custom Package. A window will open to selec
 The Unity interface will look like the following image:
  <br>
  <br>
-<img src="unity.png" alt="Unity interface" width="800">
+<img src="unityinterface.png" alt="Unity interface" width="800">
  <br>
  <br>
 The mylibrary-release.aar Plugin was placed in the Plugins --> Android directory along with the modified AndroidManifest.xml file. 
