@@ -6,7 +6,7 @@ This repository refers to the [Flashlight-Android](https://github.com/stecavalli
 Android Studio Giraffe | 2022.3.1 Patch 3
 <br>
 Unity 2022.3.15f1
-# Guide to creating and developing the app
+# Guide to creating the Plugin in Java
 Follow the directions to create the application in Android Studio that are given in the repository [Flashlight-Android](https://github.com/stecavalli/Flashlight-Android).
  <br>
  <br>
@@ -48,5 +48,4 @@ The mylibrary-release.aar file is located in the flashlight --> mylibrary --> ou
  <br>
  <br>
 <img src="mylibrary-release.aar.png" alt="mylibrary-release.aar" width="800">
- <br>
- <br>
+# Guide to using the Plugin in Unity
