@@ -8,13 +8,7 @@ Unity 2022.3.15f1
 Follow the directions to create the application in Android Studio that are given in the repository [Flashlight-Android](https://github.com/stecavalli/Flashlight-Android).
  <br>
  <br>
-In order to create the Plugin you must first create a new module, which in my case I called mylibrary and which you can see in the following image:
- <br>
- <br>
-<img src="appAndroid.png" alt="app android" width="800">
- <br>
- <br>
-To create the Module follow the instructions below:
+In order to create the Plugin you must first create a new module, follow the instructions below:
 Click on File --> New --> New Module, a window like the following will open:
  <br>
  <br>
