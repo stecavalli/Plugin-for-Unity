@@ -26,3 +26,22 @@ Select Android Library in the Templates and then choose the name your Plugin wil
 <img src="java_Class.png" alt="java class" width="800">
  <br>
  <br>
+After creating the FlashlightPlugin.java file, copy and paste the code from the FlashlightPlugin.java file found in this repository. You will get something like this:
+ <br>
+ <br>
+<img src="javaClassCode.png" alt="java class code" width="800">
+ <br>
+ <br>
+Open terminal and type ./gradlew build. The file mylibrary-release.aar will be created and you can find it in the build directory of the mylibrary Module. Select Project at the top left:
+ <br>
+ <br>
+<img src="projectDirectory.png" alt="project directory" width="800">
+ <br>
+ <br>
+The mylibrary-release.aar file is located in the flashlight --> mylibrary --> outputs --> aar directory. See the following image:
+
+ <br>
+ <br>
+<img src="mylibrary-release.aar.png" alt="mylibrary-release.aar" width="800">
+ <br>
+ <br>
