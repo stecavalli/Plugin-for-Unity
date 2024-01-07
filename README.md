@@ -49,3 +49,22 @@ The mylibrary-release.aar file is located in the flashlight --> mylibrary --> ou
  <br>
 <img src="mylibrary-release.aar.png" alt="mylibrary-release.aar" width="800">
 # Guide to using the Plugin in Unity
+Create a new 2D project in Unity.
+<br>
+In File --> Build Settings select the Android platform.
+<br>
+Select Assets --> Import Package --> Custom Package. A window will open to select the plugin_for_unity.unitypackage to upload, which you can download from this repository.
+<br>
+The Unity interface will look like the following image.
+<br>
+The mylibrary-release.aar Plugin was placed in the Plugins --> Android directory along with the modified AndroidManifest.xml file. 
+<br>
+See the images below for the two files <b>AndroidManifest.xml</b> and <b>FlashlightController.cs</b>:
+ <br>
+ <br>
+<img src="androidManifest.xml.png" alt="AndroidManifest.xml" width="800">
+ <br>
+ <br>
+<img src="flashlightController.cs.png" alt="FlashlightController.cs" width="800">
+ <br>
+ <br>
