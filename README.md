@@ -1,5 +1,7 @@
 # Plugin-for-Unity
-How to create a plugin in Java for use in Unity. This repository refers to the [Flashlight-Android](https://github.com/stecavalli/Flashlight-Android) repository found in my GitHub.
+How to create a plugin, for use in Unity, in Android Studio using the Java language.
+<br>
+This repository refers to the [Flashlight-Android](https://github.com/stecavalli/Flashlight-Android) repository found in my GitHub.
 # Software used:
 Android Studio Giraffe | 2022.3.1 Patch 3
 <br>
